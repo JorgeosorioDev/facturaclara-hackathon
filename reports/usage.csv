@@ -1,0 +1,36 @@
+fecha,modelo,prompt,imagen,bytes_enviados,eventos,n_matches,tokens_in,tokens_out,reasoning_tokens,costo_usd
+2026-10-28,sam-3.1,logo,uploads/invoice.png,190141,19,10,,,,
+2026-10-28,sam-3.1,receipt,uploads/invoice.png,190144,17,0,,,,
+2026-10-28,sam-3.1,receipt,uploads/factura_mesa.jpg,345461,19,10,,,,
+2026-10-28,muse-spark-1.3,extract,uploads/factura_mesa.jpg,258907,2,n/a,,,,
+2026-10-27,sam-3.1,invoice,desconocida,142421,26,0,,,,pendiente Billing
+2026-10-27,sam-3.1,invoice,desconocida,142421,26,0,,,,pendiente Billing
+2026-10-27,sam-3.1,receipt,desconocida,142421,,0,,,,pendiente Billing
+2026-10-27,sam-3.1,paper document,desconocida,142421,,0,,,,pendiente Billing
+2026-10-29,muse-spark-1.3,classify Q1: ¿Cuánto gasté en octubre de 2026?,,1321,1,cifra=None,339,531,,pendiente Billing
+2026-10-29,muse-spark-1.3,classify Q2: Dame el total del mes 2026-09,,1314,1,cifra=None,337,553,,pendiente Billing
+2026-10-29,muse-spark-1.3,classify Q3: ¿Cuánto llevo gastado en transporte?,,1323,1,cifra=None,337,598,,pendiente Billing
+2026-10-29,muse-spark-1.3,classify Q4: Total de papelería este año,,1314,1,cifra=None,334,742,,pendiente Billing
+2026-10-29,muse-spark-1.3,classify Q5: ¿Cuánto le compré al Proveedor A?,,1321,1,cifra=None,338,584,,pendiente Billing
+2026-10-29,muse-spark-1.3,classify Q6: ¿Cuál es el total con Proveedor B?,,1321,1,cifra=None,337,462,,pendiente Billing
+2026-10-29,muse-spark-1.3,classify Q7: Muéstrame las últimas 3 facturas,,1319,1,ids=[],337,502,,pendiente Billing
+2026-10-29,muse-spark-1.3,classify Q8: ¿Cuáles son mis facturas recientes?,,1322,1,ids=[],335,1009,,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: ¿Cuánto gasté en octubre de 2026?,,1082,1,n/a,339,129,83,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: Dame el total del mes 2026-09,,1075,1,n/a,337,148,102,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: ¿Cuánto llevo gastado en transporte?,,1084,1,n/a,337,148,103,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: Total de papelería este año,,1075,1,n/a,334,289,243,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: ¿Cuánto le compré al Proveedor A?,,1082,1,n/a,338,185,139,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: ¿Cuál es el total con Proveedor B?,,1082,1,n/a,337,121,75,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: Muéstrame las últimas 3 facturas,,1080,1,n/a,337,201,156,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: ¿Cuáles son mis facturas recientes?,,1083,1,n/a,335,317,272,pendiente Billing
+2026-10-29,sam-3.1,receipt,uploads/factura_mesa.jpg,258907,,,,,error 502 (marcador mask/box SAM no decodificable)
+2026-10-29,muse-spark-1.3,extract,fixtures/factura_mesa.jpg,258907,1,n/a,,,,ver Billing
+2026-10-29,muse-spark-1.3,extract,fixtures/invoice.png,142421,1,n/a,,,,ver Billing
+2026-10-29,muse-spark-1.3,extract,fixtures/Factura-FV-2-4.pdf,277861,1,n/a,,,,ver Billing
+2026-10-29,muse-spark-1.3,classify: ¿Cuánto gasté en transporte en octubre?,,1648,1,n/a,505,119,70,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: ¿Cuánto gasté en transporte en septiembre?,,1651,1,n/a,505,130,81,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: ¿Cuánto le compré al Proveedor A en octubre de 2026?,,1661,1,n/a,512,138,88,pendiente Billing
+2026-10-29,muse-spark-1.3,classify: Cuanto gaste en transporte en octubre?,,1644,1,n/a,504,171,122,pendiente Billing
+2026-10-30,muse-spark-1.3,classify: Cuanto gaste en transporte?,,1633,1,n/a,502,71,26,pendiente Billing
+2026-10-30,muse-spark-1.3,classify: Cuánto gasté en transporte?,,1635,1,n/a,502,121,76,pendiente Billing
+2026-10-30,muse-spark-1.3,smoke /scan T2 E2E Subir-Revisar-Facturas,,,,,,,ver Billing
