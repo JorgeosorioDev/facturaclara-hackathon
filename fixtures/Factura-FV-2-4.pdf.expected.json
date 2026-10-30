@@ -1,0 +1,15 @@
+{
+  "proveedor": "VEFLAT SAS",
+  "nit": "901475872-2",
+  "fecha": "2026-10-16",
+  "items": [
+    {"descripcion": "Servicio profesional de desarrollo de software a la medida.", "cantidad": 1, "precio_unitario": 4033.57, "total": 4033.57}
+  ],
+  "subtotal": 4033.57,
+  "iva": null,
+  "total": 4033.57,
+  "categoria_sugerida": "servicios",
+  "confianza": 0.7,
+  "moneda": "USD",
+  "nota": "Factura electronica de venta No. FVEF 4 (VEFLAT SAS -> XQUADRA USA INC). Moneda USD: fuera del contrato COP. Mismo documento que invoice.png; NIT con DV tal como impreso (901.475.872-2). Discrepancia conocida vs invoice.png.expected.json (nit sin DV, categoria transporte)."
+}

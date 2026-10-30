@@ -1,0 +1,15 @@
+{
+  "proveedor": "VEFLAT SAS",
+  "nit": "901475872-2",
+  "fecha": "2026-10-16",
+  "items": [
+    {"descripcion": "Servicio flete", "cantidad": 1, "precio_unitario": 4033.57, "total": 4033.57}
+  ],
+  "subtotal": 4033.57,
+  "iva": null,
+  "total": 4033.57,
+  "categoria_sugerida": "servicios",
+  "confianza": 0.7,
+  "moneda": "USD",
+  "nota": "moneda: USD, fuera del contrato COP"
+}

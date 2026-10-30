@@ -1,0 +1,15 @@
+{
+  "proveedor": "CONJUNTO RESIDENCIAL ANONIMIZADO",
+  "nit": "9000557198",
+  "fecha": "2026-09-01",
+  "items": [
+    {"descripcion": "ADMON", "cantidad": 1, "precio_unitario": 324578, "total": 324578},
+    {"descripcion": "CUOTA EXTRA 6/12", "cantidad": 1, "precio_unitario": 89002, "total": 89002}
+  ],
+  "subtotal": null,
+  "iva": null,
+  "total": 413580,
+  "categoria_sugerida": "servicios",
+  "confianza": 0.95,
+  "nota_anonimizacion": "Proveedor real (CONJ. FRONTERA DE LOS BERNAL TORRE 2) anonimizado por privacidad; NIT 9000557198 ya publico en tests. Valores de la extraccion ext01."
+}
